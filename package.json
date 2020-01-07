@@ -1,0 +1,17 @@
+{
+  "name": "ContactKeeper",
+  "version": "1.0.0",
+  "description": "Contact Manager App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^5.0.2",
+    "nodemon": "^2.0.2"
+  }
+}
